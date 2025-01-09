@@ -4,4 +4,4 @@ A weather app currently under development. The app aims to provide real-time wea
 
 ## Development Status
 
-This project is in progress.
+I made the html and css files and only have to add the api.
