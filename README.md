@@ -4,4 +4,4 @@ A weather app currently under development. The app aims to provide real-time wea
 
 ## Development Status
 
-I made the html and css files and only have to add the api.
+The website is finished for noww. I used openweatherapp as an api. Obviously I won't provide my Token, so you have to paste yours in there.
